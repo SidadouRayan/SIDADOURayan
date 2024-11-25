@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Bonjour, je suis Rayan Sidadou
 
 ## 🌟 À propos de moi
