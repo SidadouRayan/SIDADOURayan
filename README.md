@@ -9,9 +9,16 @@ Mon objectif est de combiner mes compétences techniques et mon esprit créatif 
 
 ## 🛠️ Compétences Techniques
 - **Systèmes et Réseaux** :
-  - Modèle OSI
+  - Modèle TCP/IP, modèle OSI
   - Diagnostic et dépannage matériel
   - Installation, paramétrage, et maintenance de Windows 10
+  - **Prise de main à distance** :
+  - Teamviewver
+  - AnyDesk
+  - bureau à distance
+  - **Ticketing** :
+  - GLPI
+  - SercviceNow
 - **Virtualisation** :
   - Hyper-V
   - VMware Workstation
@@ -23,6 +30,7 @@ Mon objectif est de combiner mes compétences techniques et mon esprit créatif 
 - **Langues** :
   - Français (natif)
   - Anglais (intermédiaire)
+  - Esagnol (intermédiaire)
 
 ---
 
